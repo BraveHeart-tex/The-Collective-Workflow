@@ -1,7 +1,9 @@
-#CHECK OUT THE LIVE DEMO
+# CHECK OUT THE LIVE DEMO
 
 You can check out the live demo on Netlify by clicking this [link](https://collective-flow.netlify.app/)
-USE: email: testUser11@gmail.com password: testuser21
+
+# TO LOG IN
+You can use :  email: testUser11@gmail.com password: testuser21
 
 # Getting Started with Create React App
 
